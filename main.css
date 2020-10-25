@@ -6,3 +6,14 @@ body {
     height: 15rem;
     width: 15rem;
 }
+
+.container{
+
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 100remgit;
+}
